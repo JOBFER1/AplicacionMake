@@ -7,6 +7,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Curso!!");
 		System.out.println("Todo va bien");
+		System.out.println("Sigue todo bien");
 	}
 
 }
