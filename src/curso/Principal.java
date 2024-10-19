@@ -10,6 +10,7 @@ public class Principal {
 		System.out.println("Sigue todo bien");
 		System.out.println("Algo va mal");
 		System.out.println(9/0);
+		System.out.println("Algo sigue mal");
 	}
 
 }
